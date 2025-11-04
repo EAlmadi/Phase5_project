@@ -194,7 +194,18 @@ Chemotherapy and hormone therapy predictions showed strong alignment between the
 6. Continue integrating genomic data with clinical decision support, as the findings demonstrate that machine learning models can meaningfully assist in predicting patient outcomes and optimizing treatment strategies.
 
 
-### 🔗 Live App: [Neural Nexus](https://neural-nexus-nine.vercel.app/)
+<h2 align="center">🚀 Live Demo</h2>
+<p align="center">
+  <a href="https://neural-nexus-nine.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20App-Vercel-blue?style=for-the-badge&logo=vercel" alt="App Link"/>
+  </a>
+</p>
 
 ---
 
+### Authors
+Elsie
+Tiffany
+Khalid
+Jeremy
+Meshack
