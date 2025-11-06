@@ -162,6 +162,13 @@ The results indicate stable generalization, with minimal overfitting between tra
 4. Combine CNN outputs with survival and treatment prediction models for **multi-modal cancer analysis**.  
 5. Deploy the CNN within the final **web application** to enable image-based diagnostic predictions.
 
+# Tableau links
+https://public.tableau.com/app/profile/jeremy.koome/viz/PrStatus/PRstatus
+https://public.tableau.com/app/profile/jeremy.koome/viz/RelapsetoTreatment/Relapse-treatment
+https://public.tableau.com/app/profile/jeremy.koome/viz/Cellularity/cellularity
+https://public.tableau.com/app/profile/jeremy.koome/viz/Menopause_17624308432140/menopause
+https://public.tableau.com/app/profile/jeremy.koome/viz/NottinghamPrognosticindex/NPI
+
 ---
 <h2 align="center">🚀 CNN App Deployment</h2>
 <p align="center">
@@ -175,4 +182,5 @@ The results indicate stable generalization, with minimal overfitting between tra
 2. 4068-tiffany
 3. Hcton75
 4. Khalidabdulkadir
+
 5. Meshack7468
